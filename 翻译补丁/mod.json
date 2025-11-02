@@ -1,0 +1,8 @@
+{
+  "name": "逻辑汉化补丁",
+  "author":"redloong9527",
+  "description":"给逻辑处理器添加了中文词条",
+  "minGameVersion":147,
+  "hidden": true
+  "version":153
+}
