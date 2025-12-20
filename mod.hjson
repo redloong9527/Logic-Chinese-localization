@@ -1,0 +1,15 @@
+displayName: "逻辑汉化补丁v1.1"
+
+name: "Chinese-localization"
+
+author: "redloong9527"
+
+description: "给逻辑处理器添加了中文词条"
+
+repo: "redloong9527/Logic-Chinese-localization"
+
+minGameVersion: 147
+
+hidden: true
+
+version: 154.2
