@@ -1,8 +1,10 @@
-displayName: "逻辑汉化补丁v1.1.3"
+displayName: "逻辑汉化补丁v1.2"
 
 name: "LogicChineseLocalization"
 
 author: "redloong9527"
+
+subtitle: "再也不用担心不会\"写\"代码了"
 
 description: "给逻辑处理器界面里的部分词条添加了中文悬停提示框"
 
@@ -12,4 +14,4 @@ minGameVersion: 147
 
 hidden: true
 
-version: 154.3
+version: 155
