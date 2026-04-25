@@ -1,4 +1,4 @@
-displayName: "逻辑汉化补丁v1.3.1"
+displayName: "逻辑汉化补丁v1.3.2"
 
 name: "LogicChineseLocalization"
 
@@ -14,4 +14,4 @@ minGameVersion: 147
 
 hidden: true
 
-version: 157.4
+version: 157.4.1
